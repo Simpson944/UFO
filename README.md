@@ -12,4 +12,4 @@
 
 ---
 ## Summary
-One drawback to this analysis is the user would have to do their own work to group findings by state; an alteration we could make is a "count" function that displays the count of the current list based on user selections. 
+One drawback to this analysis is the user would have to do their own work to group findings by state; an alteration we could make is a "count" function that displays the count of the current list based on user selections. Additionally, we could edit the search critera to find key words in the comments section to further personalize the search
