@@ -5,7 +5,7 @@
 ### A user might use this information to: 
 - Choose a vaction spot based on UFO prevalence
 - Extrapulate from the data a day of the year where more sightings occur 
-![Image https://github.com/Simpson944/UFO/blob/main/static/images/UFO.jpg]
+![Image](https://github.com/Simpson944/UFO/blob/main/static/images/UFO.jpg)
 
 ---
 ## Summary
